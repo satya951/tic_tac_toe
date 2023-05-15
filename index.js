@@ -1,1 +1,1 @@
-console.log("satya");
+console.log("index.css");
